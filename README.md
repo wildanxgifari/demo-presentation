@@ -59,3 +59,12 @@ Hakim's open source work is supported by <a href="https://github.com/sponsors/ha
 <div align="center">
   MIT licensed | Copyright © 2011-2022 Hakim El Hattab, https://hakim.se
 </div>
+
+## Wildan's notes start here
+Improvements to the halal_card:
+1. adding form for the food feedback
+2. store the filled form in an online database in which everyone can lookup
+
+Database maintainer: Wildan
+
+(everyone can controbute, everyone can beenfit)
